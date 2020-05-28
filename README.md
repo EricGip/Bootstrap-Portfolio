@@ -1,2 +1,3 @@
-# Bootstrap-Portfolio
-HW2 Assignment 1: Bootstrap 
+# Portfolio made with HTML and CSS (Bootstrap)! 
+
+https://ericgip.github.io/Bootstrap-Portfolio/.
